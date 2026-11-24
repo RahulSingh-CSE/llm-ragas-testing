@@ -1,0 +1,16 @@
+[
+  {
+    "user_input": "what is your best dish?",
+    "retrieved_contexts": [
+      "The Spice Garden Restaurant has several specialties, but a popular choice is the Butter Chicken. Other notable dishes include Paneer Lababdar, Dal Makhani, and Chicken Biryani. Each dish showcases the rich flavors of North Indian and Mughlai cuisine."
+    ],
+    "reference": "The Spice Garden Restaurant has several specialties, but a popular choice is the Butter Chicken. Other notable dishes include Paneer Lababdar, Dal Makhani, and Chicken Biryani. Each dish showcases the rich flavors of North Indian and Mughlai cuisine."
+  },
+  {
+    "user_input": "what is Butter Chicken price?",
+    "retrieved_contexts": [
+      "The price of Butter Chicken is ₹449."
+    ],
+    "reference": "The price of Butter Chicken is ₹449."
+  }
+]
